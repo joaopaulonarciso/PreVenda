@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PreVenda.Domain.Entities
+namespace PreVendaJP.Domain.Entities
 {
     public class PreVendaItem
     {
