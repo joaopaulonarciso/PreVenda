@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace PreVendaJP.Domain.Interfaces.Repositories
 {
-    public interface lClienteRepository
+    public interface IClienteRepository
     {
         Cliente Get(int clienteId);
         List<Cliente> Get(string pesquisa);
